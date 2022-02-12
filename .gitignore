@@ -1,0 +1,6 @@
+.env
+.env.backend
+.idea
+ec2
+*.exe
+*rdp
